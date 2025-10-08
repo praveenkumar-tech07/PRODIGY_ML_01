@@ -1,4 +1,3 @@
-# PRODIGY_ML_01
 
 ## Task 1: Linear Regression Model for House Price Prediction
 
