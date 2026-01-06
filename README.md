@@ -34,5 +34,5 @@ The dataset includes information about houses and their sale prices. Only three 
 ### 👨‍💻 Internship Details
 - **Track:** Machine Learning
 - **Task Number:** 1
-- **Repository Name:** `PRODIGY_ML_01`
+- **Repository Name:** `House Price Prediction`
 
